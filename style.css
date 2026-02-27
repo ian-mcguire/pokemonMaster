@@ -8,3 +8,11 @@ img {
 img:hover {
   transform: rotate(67deg);
 }
+h1 {
+  color: #333;
+  transition: color 0.5s ease;
+}
+
+h1:hover {
+  color: #ff4444;
+}
